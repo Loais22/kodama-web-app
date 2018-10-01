@@ -1,0 +1,19 @@
+.color-header {
+    background-color: #283F51;
+}
+
+.color-menu-text a {
+    color: white !important;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.carousel-height {
+    height: 450px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
